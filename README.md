@@ -10,8 +10,10 @@ Hello, I'm Fiona! I'm a data analyst with two bachelor degrees in Data Analytics
 - [Weather API](https://github.com/fiona-teo/Weather-Data-Analysis-and-Storage-System): Program that retrieves and processes weather information for Austin, TX, from the past five years using the OpenMeteo API
 
 #### **SQL Projects**
-- [Student Absence Tracker](https://github.com/fiona-teo/StudentAbsenceTrackerSQL): A project keeping track of student absences over the semester
+- [2022 Flu Vaccine](https://github.com/fiona-teo/VaccineSQL): Used SQL to query a healthcare system database to create a dataset of active patients who have recieved the flu vaccine in 2022
 - [Library Database Management System](https://github.com/fiona-teo/Library-Management-System-SQL): A project using SQL to query insights from a library database 
+- [Student Absence Tracker](https://github.com/fiona-teo/StudentAbsenceTrackerSQL): A project keeping track of student absences over the semester
 
 #### **Tableau Projects**
+- [Flu Vaccine Dashboard](https://github.com/fiona-teo/Flu-Vaccine-Dashboard): Visualization of 2022 flu vaccination stats
 - [Emergency Room Dashboard](https://github.com/fiona-teo/Emergency-Room-Dashboard/tree/main): Visualization of hospital emergency room data
