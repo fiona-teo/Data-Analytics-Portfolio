@@ -21,4 +21,4 @@ Hello, I'm Fiona! I'm a data analyst with two bachelor degrees in Data Analytics
 - [Cancer Incidences in Texas](https://github.com/fiona-teo/Cancer-Incidences-Texas-2017-2022): Visualization of invasive cancer incident rates in Texas
 
 #### **Other**
--Health Data Compliance and Communication Analysis for Texas Respiratory Virus Data
+-[Health Data Compliance and Communication Analysis for Texas Respiratory Virus Data](https://github.com/fiona-teo/Data-Compliance-and-Communication-Analysis-for-Texas-Respiratory-Virus-Data/blob/main/Project-%20Health%20Data%20Compliance%20and%20Communication%20Analysis.pdf)
