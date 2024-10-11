@@ -18,4 +18,4 @@ Hello, I'm Fiona! I'm a data analyst with two bachelor degrees in Data Analytics
 - [Flu Vaccine Dashboard](https://github.com/fiona-teo/Flu-Vaccine-Dashboard): Visualization of 2022 flu vaccination stats
 - [Emergency Room Dashboard](https://github.com/fiona-teo/Emergency-Room-Dashboard/tree/main): Visualization of hospital emergency room data
 - [Causes of Death Pareto Chart](https://github.com/fiona-teo/Causes-of-Death-Pareto-Chart): Visualization of significant few causes driving % of deaths from 2015-2019
-- [Cancer Incidences in Texas]((https://github.com/fiona-teo/Cancer-Incidences-Texas-2017-2022)): Visualization of invasive cancer incident rates in Texas
+- [Cancer Incidences in Texas](https://github.com/fiona-teo/Cancer-Incidences-Texas-2017-2022): Visualization of invasive cancer incident rates in Texas
